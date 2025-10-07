@@ -1,0 +1,6 @@
+flask
+pillow
+pytesseract
+opencv-python-headless
+torch
+torchvision
